@@ -2,7 +2,7 @@
 简称为FJE，是一个按照工厂方法、抽象工厂、建造者模式、组合模式的要求使用Python编写的用于可视化JSON文件的命令行界面小工具。
 
 ## 领域模型
-![image](https://github.com/6neo66/Funny-JSON-Explorer/blob/main/Funny%20JSON%20Explorer%20%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.png)
+![image](https://github.com/6neo66/Funny-JSON-Explorer/blob/main/images/Funny%20JSON%20Explorer%20%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.png)
 
 ## 命令格式
 ```shell
